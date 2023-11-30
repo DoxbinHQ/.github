@@ -84,12 +84,30 @@ Can I advertise my product/brand on Doxbin?
 
 <details>
  <summary><h3>Backup domains:</h3></summary>
-  
+  Incase of domain suspension you can connect to Doxbin using the following Domains.
+  <br>Be sure to check our official Telegram (t.me/doxbin) if this is to occur.
+<br>- doxbin.com
+<br>- doxbin.org
+<br>- doxbin.net
+<br>- doxbin.is
+<br>- dox.zone
+<br>- dox.land
+<br>- dox.house
+<br>- dox.fail
+<br>- dox.bz
+<br>- dox.ninja
+<br>- dox.host
+<br>- dox.sx
 </details>
 
 <details>
  <summary><h3>Contact:</h3></summary>
-  
+Telegram (fastest replies): @DrivenTowards2
+<br><br>
+Email (Law enforcement ONLY): legal@doxbin.com (Emails not from lawyers, police or government will be ignored)
+If you believe there is an an emergency involving danger of death or serious physical injury, please have the subject prefixed as "EMERGENCY REQUEST" and, within good faith belief, we will hide the paste temporarily until further notice.
+<br><br>
+Phone (toll-free): +1 (844) 666-1337
 </details>
 
 ~ Operator 
