@@ -57,7 +57,29 @@ If a paste does not break our rules, there is nothing we can do. If you're conce
 
 <details>
  <summary><h3>FAQ:</h3></summary>
-  
+Can users remove their own pastes?
+<br>Upgraded users can private/unlist their own pastes. We don't allow non-ranked users to remove their pastes. (Ranks are purchasable here)
+<br><br>
+Can I edit my paste?
+<br>Yes, as long as you posted it on your account. If you pasted something anonymously, you will not be able to edit the paste (no exceptions)
+<br><br>
+Why was my paste removed?
+<br>Pastes can be removed for a number of reasons. Please read above for the list of content that is not allowed on our service.
+<br><br>
+How long will valid pastes stay up?
+<br>Forever (as long as the service stays up, or the pastes db will be handed to the next owner)
+<br><br>
+How can I get a rank?
+<br>Purchasable ranks & extras are available here.
+<br><br>
+How do I get a paste pinned?
+<br>Contact us on Telegram for pricing and/or reasoning.
+<br><br>
+How can I contact Doxbin staff?
+<br>Our admin can be found here @DrivenTowards2 (Any other accounts claiming to be staff are fake)
+<br><br>
+Can I advertise my product/brand on Doxbin?
+<br>Yes, contact us for advertisement pricing.
 </details>
 
 <details>
